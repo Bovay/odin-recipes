@@ -1,0 +1,26 @@
+* {
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+}
+
+body {
+    background-color: rgb(113, 71, 120);
+}
+
+.title {
+    text-align: center;
+    font-size:50px;
+    font-weight: 100;
+}
+
+.imgs {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.list li{
+    text-align: center;
+    list-style-type: none;
+    margin: 10px;
+}
